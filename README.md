@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-**Last Stand: Co-op Survival Shooter** is a **Final Year Project (BS IT, 2022–2026)** at **Akhuwat College Kasur – University of the Punjab**.  
+**Last Stand: Co-op Survival Shooter** is a **Final Year Project (BS IT, 2022–2026)** at **University of the Punjab**.  
 
 It is an **Android Battle Royale / Third-Person Shooter** where **1–4 players** can connect via **LAN/Hotspot** and battle each other along with **AI-controlled enemies**.  
 
